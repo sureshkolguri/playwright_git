@@ -33,7 +33,7 @@ export default defineConfig({
     trace: 'on-first-retry',
     actionTimeout:3000,
     navigationTimeout:6000,
-    headless:false,
+    headless:true,
     
    
   },

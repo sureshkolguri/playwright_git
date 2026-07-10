@@ -14,7 +14,7 @@ test.describe('HRM employee management',()=>{
 
     })
     test('should add emp successfully',async()=>{
-        await emp.Add_Emp('suresh','sagar','kolguri')
+        await emp.Add_Emp('sagar','suresh','kolguri')
 
     })
     test.afterEach(async()=>{

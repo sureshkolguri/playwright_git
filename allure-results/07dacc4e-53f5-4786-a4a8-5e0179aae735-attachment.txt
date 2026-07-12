@@ -1,0 +1,75 @@
+OK
+200
+Total Users Fetched: 10
+[
+  {
+    id: 8544250,
+    name: 'Sachin Panicker DVM',
+    email: 'sachin_dvm_panicker@huel-russel.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8544249,
+    name: 'Gatik Sethi',
+    email: 'gatik_sethi@wintheiser.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8544248,
+    name: 'Vaishvi Mukhopadhyay',
+    email: 'mukhopadhyay_vaishvi@boyer.test',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8544247,
+    name: 'Dhanesh Somayaji CPA',
+    email: 'somayaji_dhanesh_cpa@dibbert-reichel.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8544246,
+    name: 'Suma Malik',
+    email: 'malik_suma@lind.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8544244,
+    name: 'Gati Iyer',
+    email: 'iyer_gati@littel.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8544243,
+    name: 'Prema Chaturvedi',
+    email: 'prema_chaturvedi@russel-fahey.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8544242,
+    name: 'Tara Trivedi',
+    email: 'tara_trivedi@schmidt.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8544241,
+    name: 'Baalagopaal Johar',
+    email: 'baalagopaal_johar@dickens-tremblay.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8544240,
+    name: 'Dinesh Panicker',
+    email: 'dinesh_panicker@hudson.example',
+    gender: 'male',
+    status: 'inactive'
+  }
+]

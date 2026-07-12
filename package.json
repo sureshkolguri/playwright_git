@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "Single-Data": "npx playwright test tests/HRMSingleData.spec.ts",
+    "Allure-report": "npx allure serve allure-results",
+    "All-Test": "npx playwright test",
+    "Multiple-json": "npx playwright test tests/Multipledata.spec.ts"
+   
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -9,12 +9,12 @@ test.describe('HRM employee management',()=>{
     test.beforeEach(async({page})=>{
         login =new AdminLogin(page)
         emp= new AddEmp(page)
-        await login.LaunchUrl(process.env.Base_URL!)
+        await login.LaunchUrl(process.env.BASE_URL!)
         await login.HRMLogin(process.env.BASE_USER!,process.env.BASE_PASS!)
 
     })
     test('should add emp successfully',async()=>{
-        await emp.Add_Emp('suresh','sagar','kolguri')
+        await emp.Add_Emp('sagar','suresh','kolguri')
 
     })
     test.afterEach(async()=>{
@@ -22,3 +22,4 @@ test.describe('HRM employee management',()=>{
         
     })
 })
+// bncnvmv
